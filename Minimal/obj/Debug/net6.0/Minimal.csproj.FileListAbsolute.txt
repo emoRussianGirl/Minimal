@@ -1,0 +1,15 @@
+C:\Users\Солнце\source\repos\Minimal\Minimal\bin\Debug\net6.0\Minimal.exe
+C:\Users\Солнце\source\repos\Minimal\Minimal\bin\Debug\net6.0\Minimal.deps.json
+C:\Users\Солнце\source\repos\Minimal\Minimal\bin\Debug\net6.0\Minimal.runtimeconfig.json
+C:\Users\Солнце\source\repos\Minimal\Minimal\bin\Debug\net6.0\Minimal.dll
+C:\Users\Солнце\source\repos\Minimal\Minimal\bin\Debug\net6.0\Minimal.pdb
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\Minimal.csproj.AssemblyReference.cache
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\Minimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\Minimal.AssemblyInfoInputs.cache
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\Minimal.AssemblyInfo.cs
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\Minimal.csproj.CoreCompileInputs.cache
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\Minimal.dll
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\refint\Minimal.dll
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\Minimal.pdb
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\Minimal.genruntimeconfig.cache
+C:\Users\Солнце\source\repos\Minimal\Minimal\obj\Debug\net6.0\ref\Minimal.dll

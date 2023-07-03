@@ -1,0 +1,15 @@
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\Jognson.csproj.AssemblyReference.cache
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\Jognson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\Jognson.AssemblyInfoInputs.cache
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\Jognson.AssemblyInfo.cs
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\Jognson.csproj.CoreCompileInputs.cache
+C:\Users\Солнце\source\repos\Minimal\Jognson\bin\Debug\net6.0\Jognson.exe
+C:\Users\Солнце\source\repos\Minimal\Jognson\bin\Debug\net6.0\Jognson.deps.json
+C:\Users\Солнце\source\repos\Minimal\Jognson\bin\Debug\net6.0\Jognson.runtimeconfig.json
+C:\Users\Солнце\source\repos\Minimal\Jognson\bin\Debug\net6.0\Jognson.dll
+C:\Users\Солнце\source\repos\Minimal\Jognson\bin\Debug\net6.0\Jognson.pdb
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\Jognson.dll
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\refint\Jognson.dll
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\Jognson.pdb
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\Jognson.genruntimeconfig.cache
+C:\Users\Солнце\source\repos\Minimal\Jognson\obj\Debug\net6.0\ref\Jognson.dll

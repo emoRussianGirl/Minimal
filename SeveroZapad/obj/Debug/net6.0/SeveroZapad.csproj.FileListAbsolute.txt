@@ -1,0 +1,15 @@
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\bin\Debug\net6.0\SeveroZapad.exe
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\bin\Debug\net6.0\SeveroZapad.deps.json
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\bin\Debug\net6.0\SeveroZapad.runtimeconfig.json
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\bin\Debug\net6.0\SeveroZapad.dll
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\bin\Debug\net6.0\SeveroZapad.pdb
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\SeveroZapad.csproj.AssemblyReference.cache
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\SeveroZapad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\SeveroZapad.AssemblyInfoInputs.cache
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\SeveroZapad.AssemblyInfo.cs
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\SeveroZapad.csproj.CoreCompileInputs.cache
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\SeveroZapad.dll
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\refint\SeveroZapad.dll
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\SeveroZapad.pdb
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\SeveroZapad.genruntimeconfig.cache
+C:\Users\Солнце\source\repos\Minimal\SeveroZapad\obj\Debug\net6.0\ref\SeveroZapad.dll
